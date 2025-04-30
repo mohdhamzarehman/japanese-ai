@@ -1,4 +1,4 @@
-. { @"
+
 >> # Japanese Text-to-Speech CLI
 >> 
 >> A command-line tool for converting Japanese text to speech using Google Cloud Text-to-Speech API. This tool supports multiple voice types and audio formats, making it easy to generate natural-sounding Japanese speech.
